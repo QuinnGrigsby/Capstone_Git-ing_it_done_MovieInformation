@@ -7,10 +7,10 @@ Git-ing it done was hired to assist Computing Vision in creating a successful mo
 
 In our report we will cover:
 
-* .[***Business Understanding:***](#Business Understanding) Our understanding of the goal, key questions, and stakeholders
-* .[***Data Understanding and Analysis:***](#Data Understanding and Analysis) Our data sources, descriptions, and visualizations
-* .[***Statistical Communication:***](#Statistical Communication) Our statistical analysis and interpretation
-* .[***Conclusion:***](#Conclusion) Our relevant findings and recommendations
+* [***Business Understanding:***](#Business Understanding) Our understanding of the goal, key questions, and stakeholders
+* [***Data Understanding and Analysis:***](#Data Understanding and Analysis) Our data sources, descriptions, and visualizations
+* [***Statistical Communication:***](#Statistical Communication) Our statistical analysis and interpretation
+* [***Conclusion:***](#Conclusion) Our relevant findings and recommendations
 
 ## Business Understanding
 
@@ -39,13 +39,13 @@ To make actionable insights to Computing Vision we examined data from multiple d
 
 ### Sources of Data
 
-In the folder 'zippedData' are movie datasets from:
+In the folder [zippedData](zippedData) are movie datasets from:
 
-* .[Box Office Mojo](https://www.boxofficemojo.com/)
-* .[IMBD](https://www.imdb.com/)
-* .[Rotten Tomatoes](https://www.rottentomatoes.com/)
-* .[TheMovieDB](https://www.themoviedb.com/)
-* .[The Numbers](https://www.the-numbers.com/)
+* [Box Office Mojo](https://www.boxofficemojo.com/)
+* [IMBD](https://www.imdb.com/)
+* [Rotten Tomatoes](https://www.rottentomatoes.com/)
+* [TheMovieDB](https://www.themoviedb.com/)
+* [The Numbers](https://www.the-numbers.com/)
 
 Our Main focus was the data sources from Box Office Mojo, and IMDB. 
 
