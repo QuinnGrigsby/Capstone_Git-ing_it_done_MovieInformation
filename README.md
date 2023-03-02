@@ -66,7 +66,17 @@ Our first step was to implement some data cleaning in the Box Office Mojo datase
 
 ### Three visualizations
 
-Add three visualizations
+Git-ing it Done created a few visualization to help support our questions and analysis.
+
+![Genre and Ratings]()
+
+![Total Gross]()
+
+![Domesting and Foreign Gross]()
+
+![Profit and Budget]()
+
+![Studio with Highest Profit]()
     
 ## Statistical Communication
 
