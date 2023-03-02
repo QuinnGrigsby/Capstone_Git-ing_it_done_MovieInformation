@@ -12,10 +12,14 @@ In our report we will cover:
 * [***Statistical Communication:***](#statistical-communicaiton) Our statistical analysis and interpretation
 * [***Conclusion:***](#Conclusion) Our relevant findings and recommendations
 
+Related PowerPoint and Jupyter notebook are linked below
+
+![PowerPoint Presentation]()
+![JupyterNotebook](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/Data%20Understanding.ipynb)
+
 ## Business Understanding
 
-Computing Vision looking to create a movie studio, our goal was to help analyze what genre movie would be the most successful.
-Git-ing it done formed a few key questions to answer in order to provide the stakeholders our best recommendations. 
+Computing vision is looking to create a new movie studio, our goal was to help analyze what genre movie to create based on rating and profitablity. Additionally, which well-known studio would be a profitable partner and should Computing Vision launch domestically or internationally.  
 
 ### Key Business Questions
 
@@ -38,7 +42,7 @@ In our analysis we considered a few key stakeholders including:
 
 ## Data Understanding and Analysis
 
-To make actionable insights to Computing Vision we examined data from multiple different sources. 
+To make actionable insights for Computing Vision we examined data from multiple different sources. 
 
 ### Sources of Data
 
@@ -68,25 +72,25 @@ Our first step was to implement some data cleaning in the Box Office Mojo datase
 
 Git-ing it Done created a few visualization to help support our questions and analysis.
 
-![Genre and Ratings](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Genres_with_highest_rating.png)
-
 * **Genre and Ratings** This visualization shows the genres with the highest ratings. Comedy and Action appear repeatedly are among the highest
 
-![Total Gross](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Total_gross.png)
+![Genre and Ratings](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Genres_with_highest_rating.png)
 
 * **Total Gross** This visualization shows the genres with the highest gross income. Actioc, adventure, as well as comedy appear frequently. This supports the genres with high ratings. An Action and comedy movie would be good for Computing Vision to create
 
-![Domesting and Foreign Gross](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Domestic_and_foreign_gross.png)
+![Total Gross](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Total_gross.png)
 
 * **Domesting and Foreign Gross** This visualiztion shows the split between foreign and domestic gross. Foreign gross is often a larger percentage of the total gross. Computing vision should release internationally not strictly domestically.
 
-![Profit and Budget](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Income_and_budget.png)
+![Domesting and Foreign Gross](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Domestic_and_foreign_gross.png)
 
 * **Profit and Budget** This visualization shows the relationship between budget and profit. It appears that a high budget could be related to a higher profit, we examine this further in the statistical analysis.
 
-![Studio with Highest Profit](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Studio_with_high_profit.png)
+![Profit and Budget](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Income_and_budget.png)
 
 * **Studio with Highest Profit** This visualizaiton shows the studios that have the highest profit. Buena Vista (Disney) and Warner Bros are the top two. We would recommend that Computing Visions chooses to work with either Disney or Warner Bros in their creation of an action/comedy movie. 
+
+![Studio with Highest Profit](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Studio_with_high_profit.png)
     
 ## Statistical Communication
 
@@ -124,4 +128,6 @@ This means that, having a larger budget does not necessarily mean larger profits
 
 Git-ing it done is making the recommendation for Computing vision to partner with Buena Vista (Disney) or Warner Bros to make an action/comedy movie and to launch internationally with a modest budget for the film.
 
-An Action/Comedy movie would likely produce significant profit, and attain a high popularity rating. Buena Vista (Disney) and Warner Brother are studios that produce a lot of profit. A partnership with them could prove valuable to Computing vision for producing a succesful movie. 
+An Action/Comedy movie would likely produce significant profit, and attain a high popularity rating. This is supported by the graphs we made visualizing a high popularity and income related to action/comedy genres. Buena Vista (Disney) and Warner Brother are studios that produce a lot of profit. A partnership with them could prove valuable to Computing vision for producing a succesful movie. This is supported by the visualization showing the profit made by Buena Vista and Warner Bros. It is important for Computing Vision to launch internationally. Foreign releases can make up half or more of total income, supported by our visualization. 
+
+If Computing Vision follows our recommendations they would produce a movie that is not only profitable, but popular. This will help them achieve their goal of creating a name for themselves in the movie industry. 
