@@ -68,15 +68,25 @@ Our first step was to implement some data cleaning in the Box Office Mojo datase
 
 Git-ing it Done created a few visualization to help support our questions and analysis.
 
-![Genre and Ratings]()
+![Genre and Ratings](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Genres_with_highest_rating.png)
 
-![Total Gross]()
+* **Genre and Ratings** This visualization shows the genres with the highest ratings. Comedy and Action appear repeatedly are among the highest
 
-![Domesting and Foreign Gross]()
+![Total Gross](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Total_gross.png)
 
-![Profit and Budget]()
+* **Total Gross** This visualization shows the genres with the highest gross income. Actioc, adventure, as well as comedy appear frequently. This supports the genres with high ratings. An Action and comedy movie would be good for Computing Vision to create
 
-![Studio with Highest Profit]()
+![Domesting and Foreign Gross](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Domestic_and_foreign_gross.png)
+
+* **Domesting and Foreign Gross** This visualiztion shows the split between foreign and domestic gross. Foreign gross is often a larger percentage of the total gross. Computing vision should release internationally not strictly domestically.
+
+![Profit and Budget](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Income_and_budget.png)
+
+* **Profit and Budget** This visualization shows the relationship between budget and profit. It appears that a high budget could be related to a higher profit, we examine this further in the statistical analysis.
+
+![Studio with Highest Profit](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Studio_with_high_profit.png)
+
+* **Studio with Highest Profit** This visualizaiton shows the studios that have the highest profit. Buena Vista (Disney) and Warner Bros are the top two. We would recommend that Computing Visions chooses to work with either Disney or Warner Bros in their creation of an action/comedy movie. 
     
 ## Statistical Communication
 
