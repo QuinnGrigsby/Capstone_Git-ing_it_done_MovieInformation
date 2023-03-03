@@ -67,13 +67,15 @@ Our second step was to clean The Number data set. We followed the same cleaning 
 
 Finally, we utilized the IMDB database. Data cleaning was performed in the queries and in the dataframes following similar steps as the Box Office Mojo dataset. 
 
-### Three visualizations
+### Visualizations
 
 Git-ing it Done created a few visualization to help support our questions and analysis.
 
 * **Profit and Budget** This visualization shows the relationship between budget and profit. It appears that a high budget could be related to a higher profit, we examine this further in the statistical analysis.
 
 ![Profit and Budget](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/visualizations/Income_and_budget.png)
+
+More to be found within the main and branch notebook.
     
 ## Statistical Communication
 
