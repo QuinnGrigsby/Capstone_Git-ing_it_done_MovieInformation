@@ -14,8 +14,9 @@ In our report we will cover:
 
 Related PowerPoint and Jupyter notebook are linked below
 
-![PowerPoint Presentation]()
-![JupyterNotebook](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/Data%20Understanding.ipynb)
+[PowerPoint Presentation](Capstone_Pod4_Presentation.pdf)
+
+[JupyterNotebook](Data Understanding.ipynb)
 
 ## Business Understanding
 
@@ -67,6 +68,10 @@ Our first step was to implement some data cleaning in the Box Office Mojo datase
 * **Removing any commas in the foreign and domestic gross columns to treat them equally as floats.** Removing commas was required to treat the columns as floats instead of strings.
 
 * **Creating a column that represents the total gross income.** A total gross income column will help identify which movies had the highest sales whether they were released internationally or not. 
+
+Our second step was to clean The Number data set. We followed the same cleaning steps as we did with the Box Office Mojo dataset.
+
+Finally, we utilized the IMDB database. Data cleaning was performed in the queries and in the dataframes following similar steps as the Box Office Mojo dataset. 
 
 ### Three visualizations
 
