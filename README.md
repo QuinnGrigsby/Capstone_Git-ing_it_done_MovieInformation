@@ -14,7 +14,7 @@ In our report we will cover:
 
 Related PowerPoint and Jupyter notebook are linked below
 
-[PowerPoint Presentation](Capstone_Pod4_Presentation.pdf)
+[PowerPoint Presentation](presentation.pdf)
 
 ![Jupyter Notebook](https://github.com/QuinnGrigsby/Capstone_Git-ing_it_done_MovieInformation/blob/main/Data%20Understanding.ipynb)
 
