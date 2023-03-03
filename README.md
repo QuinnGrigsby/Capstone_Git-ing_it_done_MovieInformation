@@ -16,7 +16,7 @@ Related PowerPoint and Jupyter notebook are linked below
 
 [PowerPoint Presentation](Capstone_Pod4_Presentation.pdf)
 
-[JupyterNotebook](Data Understanding.ipynb)
+[Jupyter Notebook](Data Understanding.ipynb)
 
 ## Business Understanding
 
